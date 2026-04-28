@@ -1,4 +1,3 @@
-# Bridgelabz-Training-1Y1
+# Bridgelabz-Training-1Y
 
-This is the main repository link I submitted in the classroom.
-All assignment work is organized in their respective branches inside this repository.
+There are two different assignments in the same branch with the same due date. One is the Classes and Objects assignment, which has two PDFs — “Assignment 01” (Level 1 and Level 2 problems) and “Assignment 02” (Level 1, Access Modifiers, and Instance vs Class Variables and Methods). The other one is the Package Assignment, which is based on a single PDF focused on Java packages.
